@@ -38,58 +38,58 @@ msgstr ""
 
 #: mailpile/app.py:159 mailpile/commands.py:1144
 msgid "Failed to decrypt configuration, please log in!"
-msgstr ""
+msgstr "Det lykkedes ikke at dekryptere konfiguration, venligst logge ind! "
 
 #: mailpile/auth.py:153
 msgid "Hello world, welcome!"
-msgstr ""
+msgstr "Hallo verden, velkommen!"
 
 #: mailpile/auth.py:163
 msgid "Invalid passphrase, please try again"
-msgstr ""
+msgstr "Ugyldig passphrase, prøv venligst igen"
 
 #: mailpile/auth.py:174
 #, fuzzy
 msgid "Incorrect username or password"
-msgstr "Ugyldigt brugernavn eller kodeord"
+msgstr "Ukorrekt brugernavn eller kodeord"
 
 #: mailpile/auth.py:186
 #, fuzzy
 msgid "Your password: "
-msgstr "Adgangskode"
+msgstr "Dit kodeord:"
 
 #: mailpile/auth.py:194 mailpile/commands.py:578
 #: mailpile/www/default/html/auth/login/index.html:2
 #: mailpile/www/default/html/auth/logout/index.html:2
 msgid "Please log in"
-msgstr ""
+msgstr "Du skal logge ind"
 
 #: mailpile/auth.py:219
 msgid "Goodbye!"
-msgstr ""
+msgstr "Farvel!"
 
 #: mailpile/auth.py:223
 #, fuzzy
 msgid "No session found!"
-msgstr "Ingen indstillinger fundet"
+msgstr "Ingen session er fundet!"
 
 #: mailpile/auth.py:279
 #, fuzzy
 msgid "Enter your password"
-msgstr "Forkert brugernavn eller adgangskode"
+msgstr "Indtast dit kodeord"
 
 #: mailpile/auth.py:297
 msgid "Password forgotten!"
-msgstr ""
+msgstr "Glemt kodeord!"
 
 #: mailpile/auth.py:305
 msgid "Password will never be stored"
-msgstr ""
+msgstr "kodeordet bliver aldrig gemt"
 
 #: mailpile/auth.py:310
 #, fuzzy
 msgid "Enter your password:"
-msgstr "Forkert brugernavn eller adgangskode"
+msgstr "Indtast dit kodeord"
 
 #: mailpile/auth.py:320
 msgid "Password stored permanently"
@@ -97,7 +97,7 @@ msgstr ""
 
 #: mailpile/auth.py:329
 msgid "Password stored temporarily"
-msgstr ""
+msgstr "kodeordet er gemt permanent"
 
 #: mailpile/auth.py:332
 #, fuzzy
